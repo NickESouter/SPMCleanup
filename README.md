@@ -1,6 +1,6 @@
 # SPMCleanup
 
-**WARNING**: This script is designed to delete data, and improper use may lead to accidental deletion of important data. Be sure to read this readme carefully before proceeding with this tool. We strong encourage that this tool is only used when you have a standard structure to you data (e.g., using BIDS or your own consistent file naming convention).
+**WARNING**: This script is designed to delete data, and improper use may lead to accidental deletion of important data. Be sure to read this readme carefully before proceeding with this tool. We strong encourage that this tool is only used when you have a standard structure to your data (e.g., using BIDS or your own consistent file naming convention).
 
 ## Background
 
